@@ -1,0 +1,388 @@
+A phase IIa proof-of-concept, placebo-controlled, randomized, double-blind, crossover, single-dose clinical trial of a new class of bronchodilator for acute asthma
+Veronica Swystun, Francis H. Y. GreenEmail authorView ORCID ID profile, John H. Dennis, Emmanouil Rampakakis, Gurkeet Lalli, Morenike Fadayomi, Andrea Chiu, Grishma Shrestha, Sharif Galal El Shahat, David Evan Nelson, Tamer Y. El Mays, Cora A. Pieron and Richard Leigh
+Trials201819:321
+https://doi.org/10.1186/s13063-018-2720-6©  The Author(s). 2018
+Received: 21 January 2018Accepted: 1 June 2018Published: 18 June 2018
+
+This clinical trial was funded by AIHS/Pfizer (grant 10004299).
+ SolAeroMed Inc. provided the drug and placebo and funded the statistical analysis and final report by JSS.
+ 
+ funder:  AIHS/Pfizer 
+ scheme: null
+ grant: 10004299
+ 
+ funder:  SolAeroMed Inc. 
+ scheme: null
+ grant: null
+ 
+ 
+ # The design of the study was the responsibility of the Respiratory Clinical Trials Centre, University of Calgary, AB, Canada, under the direction of Dr. Richard Leigh. Calgary Laboratory Services completed the clinical laboratory work under contract. The project was monitored by and the statistical analysis was completed by JSS Medical Research Inc., St Laurent, QC, Canada.
+
+===
+An intervention to support stroke survivors and their carers in the longer term (LoTS2Care): study protocol for a cluster randomised controlled feasibility trial
+Anne ForsterEmail author, Suzanne Hartley, Lorna Barnard, Seline OzerView ORCID ID profile, Natasha Hardicre, Tom Crocker, Marie Fletcher, Lauren Moreau, Ross Atkinson, Claire Hulme, Ivana Holloway, Laetitia Schmitt, Allan House, Jenny Hewison, Gillian Richardson, Amanda Farrin and on behalf of the LoTS2Care Programme Management Group
+Trials201819:317
+https://doi.org/10.1186/s13063-018-2669-5©  The Author(s). 2018
+Received: 27 October 2017Accepted: 3 May 2018Published: 11 June 2018
+
+This research is funded by the National Institute for Health Research (NIHR) under its Programme Grants for Applied Research Programme (Grant Reference Number RP-PG-0611-20010).
+
+ funder:  National Institute for Health Research (NIHR) 
+ scheme: Programme Grants for Applied Research Programme
+ grant: RP-PG-0611-20010
+===
+Protecting Adolescents in Low- And Middle-Income Countries from Interpersonal Violence (PRO YOUTH TRIAL): Study Protocol for a Cluster Randomized Controlled Trial of the Strengthening Families Programme 10-14 (“Familias Fuertes”) in Panama
+Anilena MejiaEmail author, Richard Emsley, Eleonora Fichera, Wadih Maalouf, Jeremy Segrott and Rachel Calam
+Trials201819:320
+https://doi.org/10.1186/s13063-018-2698-0©  The Author(s). 2018
+Received: 8 February 2018Accepted: 17 May 2018Published: 15 June 2018
+
+The Medical Research Council UK funds this study through their call for implementation research to improve adolescent health in low- and middle-income countries. The grant MR/P010849/1 was awarded on April 2017 for 36 months.
+
+ UNODC would like to acknowledge the governments of Spain and Sweden for their financial support and contribution that allowed for the training of facilitators on piloting SFP10-14 in Panama.
+  Some activities of the project have been funded by PI Anilena Mejia SENACYT SNI funds for 2018-2020, specifically dissemination in international conferences and development of videos for local media.
+   Dissemination activities of the study were also supported by the Wellcome Institutional Strategic Support Fund award [204796/Z/16/Z]. 
+   # Developer of the intervention (Dr. Virginia Molgaard) donated 40 voucher was given to each facilitator during Cohort 3 of the study).  
+   The work was also undertaken with the support of The Centre for the Development and Evaluation of Complex Interventions for Public Health Improvement (DECIPHer), a UKCRC Public Health Research Centre of Excellence. 
+   Joint funding (MR/KO232331/1) from the British Heart Foundation, 
+   Cancer Research UK, 
+   Economic and Social Research Council, 
+   Medical Research Council, 
+   the Welsh Government and the Wellcome Trust, 
+   
+   under the auspices of the UK Clinical Research Collaboration.
+
+ funder:  governments of Spain
+ scheme: 
+ grant: 
+
+ funder:  governments of Sweden
+ scheme: 
+ grant: 
+
+ funder:  PI Anilena Mejia SENACYT SNI
+ scheme: 
+ grant: 
+
+ funder:   
+ scheme: Wellcome Institutional Strategic Support Fund award
+ grant: 204796/Z/16/Z
+
+ funder:  British Heart Foundation
+ funder:  Cancer Research UK
+ funder:  Economic and Social Research Council
+ funder:  Medical Research Council
+ funder:  Welsh Government
+ funder:  the Wellcome Trust
+ scheme: UK Clinical Research Collaboration
+ grant: MR/KO232331/1
+
+
+===
+Non-invasive high-frequency oscillatory ventilation versus nasal continuous positive airway pressure in preterm infants with respiratory distress syndrome: Study protocol for a multi-center prospective randomized controlled trial
+Xing-Wang Zhu, Yuan Shi, Li-Ping Shi, Ling Liu, Jiang Xue, Rangasamy RamanathanEmail authorView ORCID ID profile and for the NHFOV Study Group
+Trials201819:319
+https://doi.org/10.1186/s13063-018-2673-9©  The Author(s). 2018
+Received: 10 June 2017Accepted: 4 May 2018Published: 14 June 2018
+
+The trial was initiated and planned by the researchers and funded by Scientific Research Projects unit of Chongqing (project: cstc2016shms-ztzx13001).
+
+ funder:  
+ scheme: Scientific Research Projects unit  of Chongqing
+ grant: cstc2016shms-ztzx13001
+
+===
+Intravenous morphine versus intravenous paracetamol after cardiac surgery in neonates and infants: a study protocol for a randomized controlled trial
+Gerdien A. Zeilmaker-RoestEmail author, Joost van Rosmalen, Monique van Dijk, Erik Koomen, Nicolaas J. G. Jansen, Martin C. J. Kneyber, Sofie Maebe, Greet van den Berghe, Dirk Vlasselaers, Ad J. J. C. Bogers, Dick Tibboel and Enno D. Wildschut
+Trials201819:318
+https://doi.org/10.1186/s13063-018-2705-5©  The Author(s). 2018
+Received: 18 October 2017Accepted: 24 May 2018Published: 13 June 2018
+
+This study is funded by ZonMw, “effective, efficient, safer use of medicines” project (project number 836041016), 
+and the Sophia Foundation for Scientific Research (SSWO) (project number S16–08).
+
+ funder:  ZonMw
+ scheme: “effective, efficient, safer use of medicines” project 
+ grant: 836041016
+
+ funder:  the Sophia Foundation for Scientific Research (SSWO
+ scheme: 
+ grant: S16–08
+
+
+===
+Augmentation effect of acupuncture on Bi’nao for hypophasis in patients with Bell’s palsy: study protocol for a randomized controlled trial
+Xiaoyan Li, Chunlan Chen, Chuang Zhao, Zunyuan Li, Wei Liang and Zhidan LiuEmail authorView ORCID ID profile
+Trials201819:316
+https://doi.org/10.1186/s13063-018-2699-z©  The Author(s). 2018
+Received: 2 November 2017Accepted: 18 May 2018Published: 11 June 2018
+
+This project was supported by the Science and Technology Commission of Shanghai Municipality (grant no. 17401931600); Science and Technology Development Fund of Baoshan District (grant number 17-E-12);
+ Excellent Young Doctor Training Program from Baoshan District Health and Family Planning Commission, Shanghai (grant no. bswsyq-2017-A02); 
+ Young Doctor Talent Training Program from Baoshan Hospital of Integrated Traditional Chinese Medicine and Western Medicine, Shanghai (grant no. 2016). 
+ 
+ funder: Science and Technology Commission of Shanghai Municipality
+ scheme: 
+ grant: 17401931600
+
+ funder: Technology Development Fund of Baoshan District 
+ scheme: 
+ grant: bswsyq-2017-A02
+
+ funder: Baoshan District Health and Family Planning Commission, Shanghai
+ scheme: Excellent Young Doctor Training Program 
+ grant: bswsyq-2017-A02
+
+ funder:  Baoshan Hospital of Integrated Traditional Chinese Medicine and Western Medicine, Shanghai
+ scheme: Young Doctor Talent Training Program 
+ grant: 2016
+
+ 
+ ===
+An intervention to support stroke survivors and their carers in the longer term (LoTS2Care): study protocol for a cluster randomised controlled feasibility trial
+Anne ForsterEmail author, Suzanne Hartley, Lorna Barnard, Seline OzerView ORCID ID profile, Natasha Hardicre, Tom Crocker, Marie Fletcher, Lauren Moreau, Ross Atkinson, Claire Hulme, Ivana Holloway, Laetitia Schmitt, Allan House, Jenny Hewison, Gillian Richardson, Amanda Farrin and on behalf of the LoTS2Care Programme Management Group
+Trials201819:317
+https://doi.org/10.1186/s13063-018-2669-5©  The Author(s). 2018
+Received: 27 October 2017Accepted: 3 May 2018Published: 11 June 2018
+
+This research is funded by the National Institute for Health Research (NIHR) under its Programme Grants for Applied Research Programme (Grant Reference Number RP-PG-0611-20010). 
+
+ funder: the National Institute for Health Research (NIHR
+ scheme: Programme Grants for Applied Research Programme
+ grant: RP-PG-0611-20010
+
+
+===
+The effectiveness of a stratified care model for non-specific low back pain in Danish primary care compared to current practice: study protocol of a randomised controlled trial
+Lars MorsoEmail authorView ORCID ID profile, Berit Schiøttz-Christensen, Jens Søndergaard, Nils-Bo de Vos Andersen, Flemming Pedersen, Kim Rose Olsen, Morten Sall Jensen, Jonathan Hill and David Høyrup Christiansen
+Trials201819:315
+https://doi.org/10.1186/s13063-018-2685-5©  The Author(s). 2018
+Received: 4 October 2017Accepted: 11 May 2018Published: 8 June 2018
+
+The study is fully funded. The study has obtained internal funding by the Central Denmark Region and the Region of Southern Denmark 
+and external funding from the Danish Rheumatism Association, 
+the Association of Danish Physiotherapists 
+and the general practitioners quality and postgraduate foundation. 
+
+ funder:  Central Denmark Region and the Region of Southern Denmark
+ scheme: 
+ grant: 
+
+ funder:  Danish Rheumatism Association
+ funder:  Association of Danish Physiotherapists
+ funder:  general practitioners quality and postgraduate foundation
+ scheme: 
+ grant: 
+
+
+===
+Efficacy of acupuncture on pelvic pain in patients with endometriosis: study protocol for a randomized, single-blind, multi-center, placebo-controlled trial
+Ruining LiangEmail author, Peishuang Li, Xuemei Peng, Ling Xu, Pei Fan, Jiahua Peng, Xu Zhou, Chunlin Xiao and Miao Jiang
+Trials201819:314
+https://doi.org/10.1186/s13063-018-2684-6©  The Author(s). 2018
+Received: 6 August 2017Accepted: 10 May 2018Published: 7 June 2018
+
+This study protocol is supported by grants from the State Administration of traditional Chinese medicine (No. jdzy2015065).
+
+ funder:  State Administration of traditional Chinese medicine 
+ scheme: 
+ grant: jdzy2015065
+
+===
+Effectiveness and sustainability of a structured group-based educational program (MEDIHEALTH) in improving medication adherence among Malay patients with underlying type 2 diabetes mellitus in Sarawak State of Malaysia: study protocol of a randomized controlled trial
+Chuo Yew Ting, Shahren Ahmad Zaidi AdruceEmail author, Mohamed Azmi Hassali, Hiram Ting, Chien Joo Lim, Rachel Sing-Kiat Ting, Abu Hassan Alshaari Abd Jabar, Nor Anizah Osman, Izzul Syazwan Shuib, Shing Chyi Loo, Sui Theng Sim, Su Ee Lim and Donald E. Morisky
+Trials201819:310
+https://doi.org/10.1186/s13063-018-2649-9©  The Author(s). 2018
+Received: 31 January 2018Accepted: 13 April 2018Published: 5 June 2018
+
+This study is funded by Sarawak Research Society for the use of the MMAS-8. 
+
+ funder: Sarawak Research Society 
+ scheme: 
+ grant: 
+
+===
+Strengthening intrapartum and immediate newborn care to reduce morbidity and mortality of preterm infants born in health facilities in Migori County, Kenya and Busoga Region, Uganda: a study protocol for a randomized controlled trial
+Phelgona Otieno†, Peter Waiswa†, Elizabeth Butrick, Gertrude Namazzi, Kevin Achola, Nicole Santos, Ryan Keating, Felicia Lester and Dilys WalkerEmail author
+†Contributed equally
+Trials201819:313
+https://doi.org/10.1186/s13063-018-2696-2©  The Author(s). 2018
+Received: 5 February 2018Accepted: 17 May 2018Published: 5 June 2018
+
+This trial is supported by the East Africa Preterm Birth Initiative, a multi-year, multi-country effort generously funded by the Bill & Melinda Gates Foundation.
+
+ funder: the Bill & Melinda Gates Foundation
+ scheme: the East Africa Preterm Birth Initiative,
+ grant: 
+
+
+===
+‘Test n Treat (TnT)’: a cluster-randomised feasibility trial of frequent, rapid-testing and same-day, on-site treatment to reduce rates of chlamydia in high-risk further education college students: statistical analysis plan
+Rachel PhillipsEmail authorView ORCID ID profile, Pippa Oakeshott, Sarah Kerry-Barnard and Fiona Reid
+Trials201819:312
+https://doi.org/10.1186/s13063-018-2675-7
+Received: 29 September 2017Accepted: 4 May 2018Published: 5 June 2018
+
+The research project is funded by NIHR Research for Patient Benefit: PB-PG-1014-35007. 
+
+ funder: 
+ scheme: NIHR Research for Patient Benefit
+ grant: PB-PG-1014-35007
+
+
+
+===
+‘Test n Treat (TnT)’– Rapid testing and same-day, on-site treatment to reduce rates of chlamydia in sexually active further education college students: study protocol for a cluster randomised feasibility trial
+Sarah Kerry-Barnard, Charlotte Fleming, Fiona Reid, Rachel Phillips, Vari M. Drennan, Elisabeth J. Adams, Wendy Majewska, Anjella Balendra, Emma Harding-Esch, Emma Cousins, S. Tariq Sadiq and Pippa OakeshottEmail authorView ORCID ID profile
+Trials201819:311
+https://doi.org/10.1186/s13063-018-2674-8©  The Author(s). 2018
+Received: 26 April 2017Accepted: 4 May 2018Published: 5 June 2018
+
+This independent research is funded by the NIHR under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number PB-PG-1014-35007). 
+
+The BMA Foundation for Medical Research TP Gunton award and the Wellcome Trust Institution Strategic Support Fund grant number 204809/Z/16/Z will fund the HPV and chlamydia/gonorrhoea tests in oropharyngeal samples.
+
+ funder: BMA Foundation for Medical Research
+ scheme: TP Gunton award
+ grant: 
+
+ funder: the Wellcome Trust
+ scheme: Wellcome Trust Institution Strategic Support Fund 
+ grant: 204809/Z/16/Z
+
+
+===
+Dietary approaches to treat MS-related fatigue: comparing the modified Paleolithic (Wahls Elimination) and low saturated fat (Swank) diets on perceived fatigue in persons with relapsing-remitting multiple sclerosis: study protocol for a randomized controlled trial
+Terry WahlsEmail authorView ORCID ID profile, Maria O. Scott, Zaidoon Alshare, Linda Rubenstein, Warren Darling, Lucas Carr, Karen Smith, Catherine A. Chenard, Nicholas LaRocca and Linda Snetselaar
+Trials201819:309
+https://doi.org/10.1186/s13063-018-2680-x©  The Author(s). 2018
+Received: 21 December 2017Accepted: 8 May 2018Published: 4 June 2018
+
+Funding for this trial was provided by the National Multiple Sclerosis Society.
+
+ funder: National Multiple Sclerosis Society
+ scheme: 
+ grant: 
+
+
+
+===
+Comparing isolated soy protein with flaxseed oil vs isolated soy protein with corn oil and wheat flour with corn oil consumption on muscle catabolism, liver function, blood lipid, and sugar in burn patients: a randomized clinical trial
+Siavash Babajafari, Abdollah HojhabrimaneshEmail author, Zahra Sohrabi, Mehdi Ayaz, Ali Noorafshan and Atefeh Akrami
+Trials201819:308
+https://doi.org/10.1186/s13063-018-2693-5©  The Author(s). 2018
+Received: 11 January 2018Accepted: 17 May 2018Published: 4 June 2018
+
+This study was supported by grants funded by the Shiraz University of Medical Science and the Nutrition 
+and Food Science Research Center, Shiraz, Iran.
+
+ funder:  Shiraz University of Medical Science
+ scheme: 
+ grant: 
+
+ funder: the Nutrition and Food Science Research Center, Shiraz, Iran.
+ scheme: 
+ grant: 
+
+
+===
+Effects of dexmedetomidine on delirium duration of non-intubated ICU patients (4D trial): study protocol for a randomized trial
+Clémence Louis, Thomas GodetEmail author, Gérald Chanques, Nathalie Bourguignon, Dominique Morand, Bruno Pereira, Jean-Michel Constantin and for the AZUREA network
+Trials201819:307
+https://doi.org/10.1186/s13063-018-2656-x©  The Author(s). 2018
+Received: 21 November 2017Accepted: 28 April 2018Published: 4 June 2018
+
+The 4D trial is funded by Clermont-Ferrand University Hospital and a grant from AZUREA research consortium.
+
+ funder: Clermont-Ferrand University Hospital
+ scheme: 
+ grant: 
+
+ funder: AZUREA research consortium
+ scheme: 
+ grant: 
+
+
+===
+Optimizing treatment protocols for spinal manipulative therapy: study protocol for a randomized trial
+Julie M. FritzEmail authorView ORCID ID profile, Jason A. Sharpe, Elizabeth Lane, Doug Santillo, Tom Greene and Gregory Kawchuk
+Trials201819:306
+https://doi.org/10.1186/s13063-018-2692-6©  The Author(s). 2018
+Received: 4 December 2017Accepted: 17 May 2018Published: 4 June 2018
+
+This project is funded by the National Center for Complimentary and Integrative Health at the National Institutes of Health (1UH3AT009293–01). 
+The study was supported by the University of Utah Study Design and Biostatistics Center with funding in part through grant 5UL1TR001067–02 (formerly 8UL1TR000105 and UL1RR025764) from the National Center for Research Resources and the National Center for Advancing Translational Sciences of the National Institutes of Health.
+
+ funder: National Center for Research Resources
+ funder: National Center for Advancing Translational Sciences of the National Institutes of Health
+ funder: University of Utah Study Design
+ scheme: 
+ grant: 5UL1TR001067–02
+
+ funder: 
+ scheme: 
+ grant: 
+
+
+===
+A randomized phase 2B trial of vancomycin versus daptomycin for the treatment of methicillin-resistant Staphylococcus aureus bacteremia due to isolates with high vancomycin minimum inhibitory concentrations – results of a prematurely terminated study
+Shirin KalimuddinEmail author, Yvonne F. Z. Chan, Rachel Phillips, Siew Pei Ong, Sophia Archuleta, David Chien Lye, Thuan Tong Tan and Jenny G. H. Low
+Trials201819:305
+https://doi.org/10.1186/s13063-018-2702-8©  The Author(s). 2018
+Received: 30 November 2017Accepted: 21 May 2018Published: 1 June 2018
+
+This work was funded by the Ministry of Health, Singapore, awarded through the Singapore Infectious Disease Initiative grant (SIDI/2013/007). 
+
+ funder: Ministry of Health, Singapore,
+ scheme: the Singapore Infectious Disease Initiative 
+ grant: SIDI/2013/007
+
+
+===
+Early motion and directed exercise (EMADE) versus usual care post ankle fracture fixation: study protocol for a pragmatic randomised controlled trial
+Paul A. Matthews, Brigitte E. ScammellEmail authorView ORCID ID profile, Arfan Ali, Timothy Coughlin, Jessica Nightingale, Tanvir Khan and Ben J. Ollivere
+Trials201819:304
+https://doi.org/10.1186/s13063-018-2691-7©  The Author(s). 2018
+Received: 30 October 2017Accepted: 16 May 2018Published: 31 May 2018
+
+This work is supported by the Arthritis Research UK (grant number 20194), the funding covers provision for researcher salaries, stipends and experimental running and analytical costs. 
+In addition, AO-UK is part funding the study. 
+
+ funder: Arthritis Research UK 
+ scheme: 
+ grant: 20194
+
+ funder: AO-UK
+ scheme: 
+ grant: 
+
+
+===
+Synergistic effect of acupuncture and mirror therapy on post-stroke upper limb dysfunction: a study protocol for a randomized controlled trial
+Ying Xu†, Shufang Lin†, Cai Jiang, Xiaoqian Ye, Jing Tao, Schupp Wilfried, Alex W. K. Wong, Lidian ChenEmail author and Shanli YangEmail author
+†Contributed equally
+Trials201819:303
+https://doi.org/10.1186/s13063-018-2585-8©  The Author(s). 2018
+Received: 8 August 2017Accepted: 7 March 2018Published: 31 May 2018
+
+This study is funded by the S&T Planning project (NO.2016I0005), Department of Science and Technology of Fujian Province, 0591-87882011.
+
+ funder: Department of Science and Technology of Fujian Province
+ scheme: S&T Planning project (NO.2016I0005)
+ grant: 0591-87882011
+ 
+===
+The AWED trial (Applying Wolbachia to Eliminate Dengue) to assess the efficacy of Wolbachia-infected mosquito deployments to reduce dengue incidence in Yogyakarta, Indonesia: study protocol for a cluster randomised controlled trial
+Katherine L. AndersEmail authorView ORCID ID profile, Citra Indriani, Riris Andono Ahmad, Warsito Tantowijoyo, Eggi Arguni, Bekti Andari, Nicholas P. Jewell, Edwige Rances, Scott L. O’Neill, Cameron P. Simmons and Adi Utarini
+Trials201819:302
+https://doi.org/10.1186/s13063-018-2670-z©  The Author(s). 2018
+Received: 13 July 2017Accepted: 3 May 2018Published: 31 May 2018
+
+This study is funded by Yayasan Tahija (The Tahija Foundation), Indonesia.
+
+ funder: Yayasan Tahija (The Tahija Foundation), Indonesia
+ scheme: 
+ grant: 
+
+
+===

@@ -1,0 +1,103 @@
+ Mepolizumab and exacerbations of refractory eosinophilic asthma (Q37711391) 
+ 
+ Supported by an unrestricted educational grant from GlaxoSmithKline.
+ 
+ funder: GlaxoSmithKline
+ scheme:
+ grant:
+ project:
+
+========
+Current strategies in the management of hypereosinophilic syndrome, including mepolizumab. (Q37766602)   
+
+CLOSED
+========
+ Pharmacokinetics and absolute bioavailability of mepolizumab following administration at subcutaneous and intramuscular sites. (Q39810650) 
+ 
+ CLOSED  
+========
+ Mepolizumab and eosinophil-mediated disease. (Q37636193) 
+ CLOSED
+========
+ Mepolizumab (Nucala) For Severe Eosinophilic Asthma. (Q37304517) 
+   
+ funder: NONE 
+ scheme:
+ grant:
+ project:
+========
+ Clinical usefulness of mepolizumab in severe eosinophilic asthma (Q26746215) 
+  
+ funder: NONE
+ scheme:
+ grant:
+ project:
+========
+  Mepolizumab for Eosinophilic COPD. (Q49989416) 
+  CLOSED
+  
+========
+  A review of treatment with mepolizumab, an anti-IL-5 mAb, in hypereosinophilic syndromes and asthma. (Q37725433) 
+  Study numbers MHE100185 , MHE100901 , SB-240563/001 , SB-240563/006 , SB-240563/036 , SB-240563/046 , and GSK 110184 , which are discussed in this article, were funded by GlaxoSmithKline.
+  
+ funder: GSK
+ scheme:
+ grant:
+ project: MHE100185
+ project: MHE100901
+ project: SB-240563/001
+ project: SB-240563/006
+ project: SB-240563/036
+ project: SB-240563/046
+ project: GSK 110184 
+========
+  Treatment response with mepolizumab in severe eosinophilic asthma patients with previous omalizumab treatment. (Q37384805) 
+  
+ funder: GSK
+ scheme:
+ grant:
+ project:
+
+========
+ Mepolizumab treatment in patients with severe eosinophilic asthma. (Q48065984) 
+ 
+ funder: GlaxoSmithKline
+ scheme:
+ grant:
+ project:
+========
+  Mepolizumab versus placebo for asthma (Q24186306) 
+  
+  NONE
+========
+  Pharmacokinetics and pharmacodynamics of mepolizumab, an anti-interleukin-5 monoclonal antibody. (Q37846670) 
+  Studies SB-240563/001, SB-240563/006, SB-240563/017, SB-240563/018, SB-240563/035, SB-240563/036, SB-240563/045, MHE100185, MHE100901 and MEE103226, 
+ funder: GlaxoSmithKline
+ scheme:
+ grant:
+ project:
+========
+ 
+ funder: 
+ scheme:
+ grant:
+ project:
+========
+ 
+ funder: 
+ scheme:
+ grant:
+ project:
+========
+ 
+ funder: 
+ scheme:
+ grant:
+ project:
+========
+ 
+ funder: 
+ scheme:
+ grant:
+ project:
+========
